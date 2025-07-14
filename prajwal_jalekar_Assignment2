@@ -15,7 +15,7 @@
     }
    ],
    "source": [
-    " # 1. Answer=>\n",
+    " # 1.Create a dictionary named users_continents and use it to store the number of users for each continent.Answer=>\n",
     "users = [\n",
     "    ('Maria', 'Greek'), ('Jean', 'Maltese'),\n",
     "    ('Juan', 'Spanish'), ('Dima', 'Ukrainian'),\n",
@@ -64,7 +64,9 @@
     }
    ],
    "source": [
-    " # 2. Answer=>\n",
+    "\n",
+    "\n",
+    "# 2. Create a funcion named remove_sql_specialists(people_list). Given a list of tuples, it removes people whose job titles contain the word \"SQL\" from the list. Answer=>\n",
     "def remove_sql_specialists(people_list):\n",
     "    result = []\n",
     "    for person in people_list:\n",
@@ -105,7 +107,9 @@
     }
    ],
    "source": [
-    " # 3. Answer=>\n",
+    "\n",
+    "\n",
+    "# 3.Python program that accepts a string and calculates the number of digits and letters. [take string input from user]. Answer=>\n",
     "user_input = input(\"Enter a string: \")\n",
     "\n",
     "\n",
@@ -139,7 +143,9 @@
     }
    ],
    "source": [
-    " # 4. Answer=>\n",
+    "\n",
+    "\n",
+    "# 4. Write a Python program to find numbers between 100 and 400 (both included) where each digit of a number is an even number.  Answer=>\n",
     "\n",
     "even_digit_numbers = []\n",
     "\n",
@@ -186,7 +192,9 @@
     }
    ],
    "source": [
-    "# 5. Answer=>\n",
+    "\n",
+    "\n",
+    "# 5. Write a Python program to find the median of five values.[As given by users]. Answer=>\n",
     "\n",
     "numbers = []\n",
     "\n",
